@@ -1,6 +1,5 @@
-# Training
-
-Python Training Batch Dec 2020
-
-## Installation
-Git understanding
+print("hello world")
+x = 2
+y = 4
+z = x+y
+print("sum ",z)
